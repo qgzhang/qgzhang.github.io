@@ -1,2 +1,6 @@
 theme: jekyll-theme-slate
 title: Welcome to Qianggong Zhang’s homepage!
+output: 
+  html_document:
+     css: css/font.css
+     self_contained: no
