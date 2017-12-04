@@ -1,8 +1,5 @@
-body .main-container {
-max-width: 1080px;
-}
 
-## Welcome to GitHub Pages
+## [Home](index.md)    [Publications](index.md)    [CV](index.md)    
 
 You can use the [editor on GitHub](https://github.com/qgzhang/qgzhang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
