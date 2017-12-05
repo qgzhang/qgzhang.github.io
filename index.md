@@ -1,4 +1,4 @@
-![portrait](portrait.jpg)
+<img src="portrait.jpg" style="width: 60px;"/>
 
 ### Biography
 
