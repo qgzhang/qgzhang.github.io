@@ -10,7 +10,7 @@ I am a Ph.D student at the [School of Computer Science](https://cs.adelaide.edu.
 
 I had been a senior software engineer at the Agricultural Bank of China (ABC) for 5 years since July 2007.
 
-Here is my [CV](cv.pdf)
+Here is my [CV](QianggongZhang_CV.pdf)
 
 
 ### Publications
@@ -26,5 +26,6 @@ Here is my [CV](cv.pdf)
 3. Quasiconvex Plane Sweep for Triangulation With Outliers.  
   Zhang, Q., Chin, T. J., Suter, D. (2017).  
   IEEE International Conference on Computer Vision (ICCV).
+  [open access](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Quasiconvex_Plane_Sweep_ICCV_2017_paper.pdf)
 
 
