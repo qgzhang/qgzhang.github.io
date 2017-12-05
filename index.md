@@ -1,7 +1,12 @@
+![portrait](portrait.jpg)
 
 ### Biography
 
-I am a Ph.D student at the [School of Computer Science](https://cs.adelaide.edu.au/), [The University of Adelaide](https://www.adelaide.edu.au/) since March 2015. I am also affiliated with the [Australian Centre for Robotic Vision (ACRV)](https://blogs.adelaide.edu.au/acvt/). My research topics include 
+I am a Ph.D student at the [School of Computer Science](https://cs.adelaide.edu.au/), [The University of Adelaide](https://www.adelaide.edu.au/) since March 2015. 
+
+I am also affiliated with the [Australian Centre for Robotic Vision (ACRV)](https://blogs.adelaide.edu.au/acvt/). 
+
+My research topics include 
 
 * structure from motion
 * SLAM
