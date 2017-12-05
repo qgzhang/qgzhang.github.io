@@ -25,7 +25,6 @@ Here is my [CV](QianggongZhang_CV.pdf)
 
 3. Quasiconvex Plane Sweep for Triangulation With Outliers.  
   Zhang, Q., Chin, T. J., Suter, D. (2017).  
-  IEEE International Conference on Computer Vision (ICCV).
-  [open access](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Quasiconvex_Plane_Sweep_ICCV_2017_paper.pdf)
+  IEEE International Conference on Computer Vision (ICCV). [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Quasiconvex_Plane_Sweep_ICCV_2017_paper.pdf), and [code](http://openaccess.thecvf.com/content_ICCV_2017/supplemental/Zhang_Quasiconvex_Plane_Sweep_ICCV_2017_supplemental.zip)
 
 
