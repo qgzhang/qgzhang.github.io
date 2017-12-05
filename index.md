@@ -1,18 +1,30 @@
-# Qianggong Zhang
-
 
 ### Biography
 
-I am a Ph.D student at the School of Computer Science, The University of Adelaide. I am also affiliated with the Australian Centre for Robotic Vision (ACRV).
+I am a Ph.D student at the [School of Computer Science](https://cs.adelaide.edu.au/), [The University of Adelaide](https://www.adelaide.edu.au/) since March 2015. I am also affiliated with the [Australian Centre for Robotic Vision (ACRV)](https://blogs.adelaide.edu.au/acvt/). My research topics include 
+
+* structure from motion
+* SLAM
+* computational geometry
+* robust statistics.
+
+I had been a senior software engineer at the Agricultural Bank of China (ABC) for 5 years since July 2007.
+
+Here is my [CV](cv.pdf)
+
 
 ### Publications
 
+1. An Efficient Meta-Algorithm for Triangulation.  
+  Zhang, Q., & Chin, T. J. (2016).  
+  Asian Conference on Computer Vision (ACCV), 148-161.
+
+2. Coresets for Triangulation.  
+  Zhang, Q., & Chin, T. J. (2017).  
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
+
+3. Quasiconvex Plane Sweep for Triangulation With Outliers.  
+  Zhang, Q., Chin, T. J., Suter, D. (2017).  
+  IEEE International Conference on Computer Vision (ICCV).
 
 
-### CV
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qgzhang/qgzhang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
