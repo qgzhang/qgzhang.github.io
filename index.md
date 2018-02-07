@@ -1,4 +1,4 @@
-<img src="portrait.jpg" width="180" />
+<img src="selfie.jpg" width="180" />
 
 ### Biography
 
