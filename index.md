@@ -20,16 +20,23 @@ Here is my [CV](QianggongZhang_CV.pdf)
 
 ### Publications
 
-1. An Efficient Meta-Algorithm for Triangulation.  
-  Zhang, Q., & Chin, T. J. (2016).  
-  Asian Conference on Computer Vision (ACCV), 148-161.
+*. A Fast Resection-Intersection Method for the Known Rotation Problem.  
+  Zhang, Q., Chin, T. J., Le, H. 
+  IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2018.
+  
+*. Quasiconvex Plane Sweep for Triangulation With Outliers.  
+  Zhang, Q., Chin, T. J., Suter, D.   
+  IEEE International Conference on Computer Vision (ICCV) 2017. [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Quasiconvex_Plane_Sweep_ICCV_2017_paper.pdf), and [code](http://openaccess.thecvf.com/content_ICCV_2017/supplemental/Zhang_Quasiconvex_Plane_Sweep_ICCV_2017_supplemental.zip)
 
-2. Coresets for Triangulation.  
-  Zhang, Q., & Chin, T. J. (2017).  
-  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
+*. Coresets for Triangulation.  
+  Zhang, Q., & Chin, T. J.   
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2017.
 
-3. Quasiconvex Plane Sweep for Triangulation With Outliers.  
-  Zhang, Q., Chin, T. J., Suter, D. (2017).  
-  IEEE International Conference on Computer Vision (ICCV). [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Quasiconvex_Plane_Sweep_ICCV_2017_paper.pdf), and [code](http://openaccess.thecvf.com/content_ICCV_2017/supplemental/Zhang_Quasiconvex_Plane_Sweep_ICCV_2017_supplemental.zip)
+*. An Efficient Meta-Algorithm for Triangulation.  
+  Zhang, Q., & Chin, T. J.  
+  Asian Conference on Computer Vision (ACCV) 2016 Workshops, 148-161.
+
+
+
 
 
