@@ -26,7 +26,7 @@ Here is my [CV](QianggongZhang_CV.pdf)
   
 *. Quasiconvex Plane Sweep for Triangulation With Outliers.  
   Zhang, Q., Chin, T. J., Suter, D.   
-  IEEE International Conference on Computer Vision (ICCV) 2017. [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Quasiconvex_Plane_Sweep_ICCV_2017_paper.pdf), and [code](http://openaccess.thecvf.com/content_ICCV_2017/supplemental/Zhang_Quasiconvex_Plane_Sweep_ICCV_2017_supplemental.zip)
+  IEEE International Conference on Computer Vision (ICCV) 2017. [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Quasiconvex_Plane_Sweep_ICCV_2017_paper.pdf) and [code](http://openaccess.thecvf.com/content_ICCV_2017/supplemental/Zhang_Quasiconvex_Plane_Sweep_ICCV_2017_supplemental.zip)
 
 *. Coresets for Triangulation.  
   Zhang, Q., & Chin, T. J.   
@@ -34,7 +34,7 @@ Here is my [CV](QianggongZhang_CV.pdf)
 
 *. An Efficient Meta-Algorithm for Triangulation.  
   Zhang, Q., & Chin, T. J.  
-  Asian Conference on Computer Vision (ACCV) 2016 Workshops, 148-161.
+  Asian Conference on Computer Vision (ACCV) 2016 Workshops.
 
 
 
