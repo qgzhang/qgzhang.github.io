@@ -2,20 +2,20 @@
 
 ### Biography
 
-I am a Ph.D student at the [School of Computer Science](https://cs.adelaide.edu.au/), [The University of Adelaide](https://www.adelaide.edu.au/) since March 2015. 
+I am working as a researcher in Motovis Australia Ltd Pty.  My research relates to vehicle localisation and SLAM.
 
-I am also affiliated with the [Australian Centre for Robotic Vision (ACRV)](https://blogs.adelaide.edu.au/acvt/). 
-
-My research topics include 
+I freshly graduated as a Ph.D student from the [School of Computer Science](https://cs.adelaide.edu.au/), [The University of Adelaide](https://www.adelaide.edu.au/). Research topics include
 
 * structure from motion
 * SLAM
 * computational geometry
 * robust statistics.
 
+I was also affiliated with the [Australian Institute for Machine Learning (AIML)](https://www.adelaide.edu.au/aiml/). 
+
 I had been a senior software engineer at the Agricultural Bank of China (ABC) for 5 years since July 2007.
 
-Here is my [CV](QianggongZhang_CV.pdf)
+[//]: # Here is my [CV](QianggongZhang_CV.pdf)
 
 
 ### Publications
