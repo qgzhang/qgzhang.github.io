@@ -4,7 +4,7 @@
 
 I am working as a researcher in [Motovis](http://www.motovis.cn/) Australia Ltd Pty.  My research relates to vehicle localisation and SLAM.
 
-I freshly graduated as a Ph.D student from the [School of Computer Science](https://cs.adelaide.edu.au/), [The University of Adelaide](https://www.adelaide.edu.au/). Research topics include
+I freshly graduated (almost) as a Ph.D student from the [School of Computer Science](https://cs.adelaide.edu.au/), [The University of Adelaide](https://www.adelaide.edu.au/). Research topics include
 
 * structure from motion
 * SLAM
