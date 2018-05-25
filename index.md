@@ -19,7 +19,7 @@ I had been a senior software engineer at the Agricultural Bank of China (ABC) fo
 
 *. A Fast Resection-Intersection Method for the Known Rotation Problem.  
   Zhang, Q., Chin, T. J., Le, H. 
-  IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2018.
+  IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2018. [pdf](https://github.com/qgzhang/qgzhang.github.io/blob/master/papers/res-int.pdf) and [code](https://github.com/qgzhang/qgzhang.github.io/blob/master/codes/res-int.zip)
   
 *. Quasiconvex Plane Sweep for Triangulation With Outliers.  
   Zhang, Q., Chin, T. J., Suter, D.   
