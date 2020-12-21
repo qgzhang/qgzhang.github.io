@@ -10,7 +10,7 @@ I was also affiliated with the [Australian Institute for Machine Learning (AIML)
 
 I had been a senior software engineer at the Agricultural Bank of China (ABC) for 5 years since July 2007.
 
-My CV can be found [here](Qianggong_Zhang_CV.pdf).
+My CV can be found [here](https://qgzhang.github.io/Qianggong_Zhang_CV.pdf).
 
 ### Publications
 
