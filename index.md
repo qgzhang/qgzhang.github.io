@@ -2,18 +2,15 @@
 
 ### Biography
 
-I am a Ph.D student from the [School of Computer Science](https://cs.adelaide.edu.au/), [The University of Adelaide](https://www.adelaide.edu.au/). Research topics include
+I am a research fellow in the University of Queensland since 2019 working on early skin cancer dignosis. 
 
-* structure from motion
-* SLAM
-* computational geometry
-* robust statistics.
+I was a Ph.D student from the University of Adelaide. Research topics include structure from motion, SLAM, computational geometry and robust statistics.
 
 I was also affiliated with the [Australian Institute for Machine Learning (AIML)](https://www.adelaide.edu.au/aiml/). 
 
 I had been a senior software engineer at the Agricultural Bank of China (ABC) for 5 years since July 2007.
 
-
+My CV can be found [here]().
 
 ### Publications
 
