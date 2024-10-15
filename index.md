@@ -12,7 +12,7 @@ I earned my **Ph.D. in Computer Science** from the **University of Adelaide**, w
 
 Prior to academia, I spent five years as a **Senior Software Engineer** at the **Agricultural Bank of China (ABC)**, beginning in July 2007.  
 
-For a detailed overview of my career, please refer to my [CV](https://qgzhang.github.io/Qianggong_Zhang_CV.pdf).
+For a detailed overview of my career, please refer to my **[CV](https://qgzhang.github.io/Qianggong_Zhang_CV.pdf)**.
 
 
 ### Papers
