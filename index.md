@@ -2,17 +2,28 @@
 
 ### Biography
 
-I am a research fellow in the University of Queensland since 2019 working on early skin cancer dignosis. 
+Since 2023, I have been working at the **Commonwealth Scientific and Industrial Research Organisation (CSIRO)**, focusing on emerging Large Language Models (LLMs).  
 
-I was a Ph.D student from the University of Adelaide. Research topics include structure from motion, SLAM, computational geometry and robust statistics.
+From 2021 to 2023, I founded **Coin Master P2P**, successfully managing a profitable cryptocurrency portfolio, demonstrating entrepreneurial skills and financial acumen.  
 
-I was also affiliated with the [Australian Institute for Machine Learning (AIML)](https://www.adelaide.edu.au/aiml/). 
+Between 2018 and 2021, I was a **Research Fellow** at the **University of Queensland** and **Queensland University of Technology**, applying AI to the early diagnosis of skin cancer.  
 
-I had been a senior software engineer at the Agricultural Bank of China (ABC) for 5 years since July 2007.
+I earned my **Ph.D. in Computer Science** from the **University of Adelaide**, with research spanning **structure from motion**, **SLAM**, **computational geometry**, and **robust statistics**. During this time, I was also affiliated with the [**Australian Institute for Machine Learning (AIML)**](https://www.adelaide.edu.au/aiml/).  
 
-My CV can be found [here](https://qgzhang.github.io/Qianggong_Zhang_CV.pdf).
+Prior to academia, I spent five years as a **Senior Software Engineer** at the **Agricultural Bank of China (ABC)**, beginning in July 2007.  
 
-### Publications
+For a detailed overview of my career, please refer to my [CV](https://qgzhang.github.io/Qianggong_Zhang_CV.pdf).
+
+
+### Papers
+
+*. BuildingSage: A safe and secure AI copilot for smart buildings.
+  Dedeoglu V., Zhang Q., Li Y., Liu J., & Sethuvenkatraman S.
+  ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys 2024)
+
+*. Implicitly Defined Layers in Neural Networks. 
+  Zhang Q., Gu Y., Mateusz M., Baktashmotlagh M., & Eriksson A.
+  https://arxiv.org/abs/2003.01822. (2020)
 
 *. A Fast Resection-Intersection Method for the Known Rotation Problem.  
   Zhang, Q., Chin, T. J., Le, H. 
